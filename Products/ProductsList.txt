@@ -6,3 +6,4 @@ Keyboard
 Mouse
 Pendrive
 SSD
+NVME SSD
