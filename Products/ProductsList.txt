@@ -5,3 +5,4 @@ TV
 Keyboard
 Mouse
 Pendrive
+SSD
