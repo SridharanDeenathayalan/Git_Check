@@ -4,3 +4,5 @@ TV
 Keyboard
 Mouse
 Pendrive
+HeadPhone
+DataCable
