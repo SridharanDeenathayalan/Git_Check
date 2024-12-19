@@ -7,3 +7,5 @@ Mouse
 Pendrive
 SSD
 NVME SSD
+HeadPhone
+DataCable
